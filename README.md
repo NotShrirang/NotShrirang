@@ -2,7 +2,7 @@ Hi! I am Shrirang Mahajan.
 <br>
 I am Second Year undergrad student of Computer Engineering.
 
-Interests : Python UX, UI design, C++ and Database Management.
+Interests : Python UX/UI design, C++ and Database Management.
 <br>
 Currently Learning : React JS, Open CV
 <br>
