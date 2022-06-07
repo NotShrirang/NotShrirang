@@ -2,9 +2,9 @@
 <br>
 I am Second Year undergrad student of Computer Engineering.
 
-<b>Interests</b> : Python UX/UI design, C++ and Database Management.
+<b>Interests</b> : UX/UI design, Android Development, Python, C++ and Database Management.
 <br>
-<b>Currently Learning</b> : React JS, Open CV
+<b>Currently Learning</b> : Android Development, React JS.
 <br>
 
 <h3>Reach me at <a href="shrirangmahajan123@gmail.com">shrirangmahajan123@gmail.com</a></h3>
