@@ -1,11 +1,11 @@
 <h2>Hi! I am Shrirang Mahajan.</h2>
 <br>
 I am Second Year undergrad student of Computer Engineering.
+<br>
+<hr>
 
-<b>Interests</b> : UX/UI design, Android Development, Python, C++ and Database Management.
-<br>
-<b>Currently Learning</b> : Android Development, React JS.
-<br>
+- Interests: UX/UI design, ML, Android Development, Python, C++ and Database Management.
+- Currently Learning : Machine Learning, Android Development
 
 <h3>Reach me at <a href="shrirangmahajan123@gmail.com">shrirangmahajan123@gmail.com</a></h3>
 <p>
