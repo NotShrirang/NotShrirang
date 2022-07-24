@@ -1,8 +1,8 @@
 <h2>Hi! I am Shrirang Mahajan.</h2>
-<br>
+
 I am Second Year undergrad student of Computer Engineering.
-<br>
-<hr>
+
+<p>
 
 - Interests: UX/UI design, ML, Android Development, Python, C++ and Database Management.
 - Currently Learning : Machine Learning, Android Development
