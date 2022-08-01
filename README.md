@@ -1,6 +1,6 @@
 <h2>Hi! I am Shrirang Mahajan.</h2>
 
-I am Second Year undergrad student of Computer Engineering.
+I am Third Year undergrad student of Computer Engineering.
 
 <p>
 
