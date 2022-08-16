@@ -13,9 +13,9 @@ I am Third Year undergrad student of Computer Engineering.
 </p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotShrirang&show_icons=true&locale=en&theme=gotham" alt="NotShrirang" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotShrirang&show_icons=true&locale=en&theme=vue" alt="NotShrirang" /></p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotShrirang&langs_count=8&https://github.com/NotShrirang/github-readme-stats&theme=gotham"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotShrirang&langs_count=8&https://github.com/NotShrirang/github-readme-stats&theme=vue"/></p>
 
 <br>
 
