@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<h2>Hi! I am Shrirang Mahajan.</h2>
 
-You can use the [editor on GitHub](https://github.com/NotShrirang/NotShrirang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Third Year undergrad student of Computer Engineering.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>
 
-### Markdown
+- Interests: UX/UI design, ML, NLP, Database Management, Android Development, Python.
+- Currently Learning : Machine Learning, Django
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3>Reach me at <a href="shrirangmahajan123@gmail.com">shrirangmahajan123@gmail.com</a></h3>
+<p>
+<h3>LinkedIn : <a href="https://www.linkedin.com/in/shrirang-mahajan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrirang-mahajan" height="15" width="20" /></a></h3>
+</p>
+<br>
 
-```markdown
-Syntax highlighted code block
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotShrirang&show_icons=true&locale=en&theme=gotham" alt="NotShrirang" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotShrirang&langs_count=8&https://github.com/NotShrirang/github-readme-stats&theme=gotham"/></p>
 
-# Header 1
-## Header 2
-### Header 3
+<br>
 
-- Bulleted
-- List
+## Projects:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### 1. <a href="https://github.com/NotShrirang/pydbops">pydbops</a>
+Relational Database Management System without SQL. <br>
+Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - https://pypi.org/project/pydbops/
+```sh
+pip install pydbops
 ```
+Uses: Python and Sqlite3.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### 2. <a href="https://github.com/NotShrirang/Multiline-lambda-Function">Multiline-lambda-Function</a>
+Multiline lambda function in python. <br>
+Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - https://pypi.org/project/multiLineLambda/
+```sh
+pip install multiLineLambda 
+```
+Uses: Python
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NotShrirang/NotShrirang/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 3. <a href="https://github.com/NotShrirang/Doodle">Doodle</a>
+Offline Examination System for students and teachers.<br>
+Deployed on Google Sites - https://sites.google.com/view/doodlein/home
+Download Doodle - https://github.com/NotShrirang/Doodle/releases/download/v1.7.4/Doodle_setup_v1.7.4_x86.exe
+User Manual - https://github.com/NotShrirang/Doodle/releases/download/v1.7.4/Doodle_User_Manual.pdf
+Uses: Python, Tkinter, Sqlite3
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
