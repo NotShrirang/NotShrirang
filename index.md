@@ -26,7 +26,7 @@ I am Third Year undergrad student of Computer Engineering.
 <h3> 1. <a href="https://github.com/NotShrirang/pydbops">pydbops</a> </h3>
 Relational Database Management System without SQL. <br>
 Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - <a href="https://pypi.org/project/pydbops/">https://pypi.org/project/pydbops/</a><br>
-<input type="text" readonly="readonly">pip install pydbops</input>
+<input type="text" readonly="readonly" value="pip install pydbops">
 <br>
 Uses: Python and Sqlite3.
 
@@ -34,9 +34,7 @@ Uses: Python and Sqlite3.
 <h3> 2. <a href="https://github.com/NotShrirang/Multiline-lambda-Function">Multiline-lambda-Function</a> </h3>
 Multiline lambda function in python. <br>
 Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - <a href="https://pypi.org/project/multiLineLambda/"> https://pypi.org/project/multiLineLambda/ </a> <br>
-
-<input type="text" readonly="readonly">pip install multiLineLambda</input>
-
+<input type="text" readonly="readonly" value="pip install multiLineLambda">
 <br>
 Uses: Python
 
