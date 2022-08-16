@@ -3,9 +3,9 @@
 I am Third Year undergrad student of Computer Engineering.
 
 <p>
-
-- Interests: UX/UI design, ML, NLP, Database Management, Android Development, Python.
-- Currently Learning : Machine Learning, Django
+<ul>
+<li>Interests: UX/UI design, ML, NLP, Database Management, Android Development, Python.</li>
+<li>Currently Learning : Machine Learning, Django</li>
 
 <h3>Reach me at <a href="shrirangmahajan123@gmail.com">shrirangmahajan123@gmail.com</a></h3>
 <p>
@@ -26,10 +26,7 @@ I am Third Year undergrad student of Computer Engineering.
 <h3> 1. <a href="https://github.com/NotShrirang/pydbops">pydbops</a> </h3>
 Relational Database Management System without SQL. <br>
 Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - <a href="https://pypi.org/project/pydbops/">https://pypi.org/project/pydbops/</a><br>
-
-```sh 
-pip install pydbops 
-```
+<input type="text" readonly="readonly">pip install pydbops</input>
 <br>
 Uses: Python and Sqlite3.
 
@@ -38,9 +35,8 @@ Uses: Python and Sqlite3.
 Multiline lambda function in python. <br>
 Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - <a href="https://pypi.org/project/multiLineLambda/"> https://pypi.org/project/multiLineLambda/ </a> <br>
 
-```sh 
-pip install multiLineLambda
-```
+<input type="text" readonly="readonly">pip install multiLineLambda</input>
+
 <br>
 Uses: Python
 
