@@ -19,6 +19,7 @@ I am Third Year undergrad student of Computer Engineering.
 
 <br>
 
+<hr>
 
 <h2> Projects: </h2>
 
@@ -29,7 +30,7 @@ Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - https:
 ```sh 
 pip install pydbops 
 ```
-
+<br>
 Uses: Python and Sqlite3.
 
 
@@ -40,7 +41,7 @@ Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - https:
 ```sh 
 pip install multiLineLambda
 ```
-
+<br>
 Uses: Python
 
 <h3> 3. <a href="https://github.com/NotShrirang/Doodle">Doodle</a> </h3>
