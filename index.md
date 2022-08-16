@@ -25,7 +25,7 @@ I am Third Year undergrad student of Computer Engineering.
 
 <h3> 1. <a href="https://github.com/NotShrirang/pydbops">pydbops</a> </h3>
 Relational Database Management System without SQL. <br>
-Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - https://pypi.org/project/pydbops/ <br>
+Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - <a href="https://pypi.org/project/pydbops/">https://pypi.org/project/pydbops/</a><br>
 
 ```sh 
 pip install pydbops 
@@ -36,7 +36,7 @@ Uses: Python and Sqlite3.
 
 <h3> 2. <a href="https://github.com/NotShrirang/Multiline-lambda-Function">Multiline-lambda-Function</a> </h3>
 Multiline lambda function in python. <br>
-Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - https://pypi.org/project/multiLineLambda/ <br>
+Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - <a href="https://pypi.org/project/multiLineLambda/"> https://pypi.org/project/multiLineLambda/ </a> <br>
 
 ```sh 
 pip install multiLineLambda
@@ -46,7 +46,7 @@ Uses: Python
 
 <h3> 3. <a href="https://github.com/NotShrirang/Doodle">Doodle</a> </h3>
 Offline Examination System for students and teachers. <br>
-Deployed on Google Sites - https://sites.google.com/view/doodlein/home <br>
-Download Doodle - https://github.com/NotShrirang/Doodle/releases/download/v1.7.4/Doodle_setup_v1.7.4_x86.exe <br>
-User Manual - https://github.com/NotShrirang/Doodle/releases/download/v1.7.4/Doodle_User_Manual.pdf <br>
+Deployed on Google Sites - <a href="https://sites.google.com/view/doodlein/home">https://sites.google.com/view/doodlein/home</a> <br>
+Download Doodle - <a href="https://github.com/NotShrirang/Doodle/releases/download/v1.7.4/Doodle_setup_v1.7.4_x86.exe">https://github.com/NotShrirang/Doodle/releases/download/v1.7.4/Doodle_setup_v1.7.4_x86.exe</a> <br>
+User Manual - <a href="https://github.com/NotShrirang/Doodle/releases/download/v1.7.4/Doodle_User_Manual.pdf">https://github.com/NotShrirang/Doodle/releases/download/v1.7.4/Doodle_User_Manual.pdf</a> <br>
 Uses: Python, Tkinter, Sqlite3
