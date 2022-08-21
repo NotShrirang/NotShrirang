@@ -44,3 +44,7 @@ Deployed on Google Sites - <a href="https://sites.google.com/view/doodlein/home"
 Download Doodle - <a href="https://github.com/NotShrirang/Doodle/releases/download/v1.7.4/Doodle_setup_v1.7.4_x86.exe">https://github.com/NotShrirang/Doodle/releases/download/v1.7.4/Doodle_setup_v1.7.4_x86.exe</a> <br>
 User Manual - <a href="https://github.com/NotShrirang/Doodle/releases/download/v1.7.4/Doodle_User_Manual.pdf">https://github.com/NotShrirang/Doodle/releases/download/v1.7.4/Doodle_User_Manual.pdf</a> <br>
 Uses: Python, Tkinter, Sqlite3
+<hr>
+<h2>Other activities</h2>
+I am currently learning Japanese.
+I have given JLPT <a href="https://www.linkedin.com/posts/shrirang-mahajan_jlpt-activity-6913429007988391936-Sjzf/">N5</a> and N4 exams.
