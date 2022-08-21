@@ -1,5 +1,5 @@
 <h2>Hi! I am Shrirang Mahajan.</h2>
-
+<head><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"><head>
 I am Third Year undergrad student of Computer Engineering.
 
 <p>
@@ -26,7 +26,7 @@ I am Third Year undergrad student of Computer Engineering.
 <h3> 1. <a href="https://github.com/NotShrirang/pydbops">pydbops</a> </h3>
 Relational Database Management System without SQL. <br>
 Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - <a href="https://pypi.org/project/pydbops/">https://pypi.org/project/pydbops/</a><br>
-<input type="text" readonly="readonly" value="pip install pydbops">
+<input class="form-control" type="text" readonly="readonly" value="pip install pydbops">
 <br>
 Uses: Python and Sqlite3.
 
@@ -34,7 +34,7 @@ Uses: Python and Sqlite3.
 <h3> 2. <a href="https://github.com/NotShrirang/Multiline-lambda-Function">Multiline-lambda-Function</a> </h3>
 Multiline lambda function in python. <br>
 Uploaded to <a href="https://pypi.org/">Python Package Index</a> (PyPI) - <a href="https://pypi.org/project/multiLineLambda/"> https://pypi.org/project/multiLineLambda/ </a> <br>
-<input type="text" readonly="readonly" value="pip install multiLineLambda">
+<input class="form-control" type="text" readonly="readonly" value="pip install multiLineLambda">
 <br>
 Uses: Python
 
