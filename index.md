@@ -47,4 +47,4 @@ Uses: Python, Tkinter, Sqlite3
 <hr>
 <h2>Other activities</h2>
 I am currently learning Japanese.
-I have given JLPT <a href="https://www.linkedin.com/posts/shrirang-mahajan_jlpt-activity-6913429007988391936-Sjzf/">N5</a> and N4 exams.
+I have given JLPT <a href="https://www.linkedin.com/posts/shrirang-mahajan_jlpt-activity-6913429007988391936-Sjzf/">N5</a> and <a href="https://www.linkedin.com/feed/update/urn:li:activity:6967665738387976192/">N4</a> exams.
