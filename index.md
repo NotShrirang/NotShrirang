@@ -4,8 +4,8 @@ I am Third Year undergrad student of Computer Engineering.
 
 <p>
 <ul>
-<li>Interests: UX/UI design, ML, NLP, Database Management, Android Development, Python.</li>
-<li>Currently Learning : Machine Learning, Django</li>
+<li>Interests: UX/UI design, ML, NLP, Database Management, Android Development, Python, Django.</li>
+<li>Currently Learning : Computer Vision, Flutter, Machine Learning</li>
 
 <h3>Reach me at <a href="shrirangmahajan123@gmail.com">shrirangmahajan123@gmail.com</a></h3>
 <p>
