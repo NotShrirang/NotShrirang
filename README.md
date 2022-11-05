@@ -4,8 +4,8 @@ I am Third Year undergrad student of Computer Engineering.
 
 <p>
 
-- Interests: Flutter, ML, NLP, Database Management, Android Development, Python, Django.
-- Currently Learning : Computer Vision, Flutter, Machine Learning 
+- Interests: Flutter, ML, NLP, Database Management, Android Development, Django, Computer Vision.
+- Currently Learning : Machine Learning, Deep Learning, Flutter.
 
 <h3>Reach me at <a href="shrirangmahajan123@gmail.com">shrirangmahajan123@gmail.com</a></h3>
 <p>
