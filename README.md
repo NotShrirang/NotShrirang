@@ -15,4 +15,7 @@ I am Third Year undergrad student of Computer Engineering.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotShrirang&show_icons=true&locale=en&theme=gotham" alt="NotShrirang" /></p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotShrirang&langs_count=8&https://github.com/NotShrirang/github-readme-stats&locale=en&layout=compact&theme=gotham"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotShrirang&langs_count=8&https://github.com/NotShrirang/github-readme-stats&locale=en&layout=compact&theme=gotham"/></p>
+<br>
+<h4>Hacktoberfest 2022 :</h4>
+<img src = "https://holopin.me/notshrirang" />
