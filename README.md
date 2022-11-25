@@ -54,7 +54,6 @@ I am Third Year undergrad student of Computer Engineering.
 [![C](https://img.shields.io/badge/c-purple?style=for-the-badge&logo=c&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/kotlin-white?style=for-the-badge&logo=kotlin&logoColor=purple)](https://kotlinlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=JavaScript&logoColor=yellow)]()
 [![HTML5](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Canva](https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&logoColor=blue)]()
 [![Figma](https://img.shields.io/badge/figma-success?style=for-the-badge&logo=figma&logoColor=white)]()
