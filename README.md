@@ -5,7 +5,7 @@ I am Third Year undergrad student of Computer Engineering.
 <p>
 
 - Interests: Flutter, ML, NLP, Database Management, Django, Computer Vision.
-- Currently Learning : Machine Learning, Deep Learning, Flutter.
+- Currently Learning : Deep Learning, Machine Learning, OpenCV.
 
 <div align="center">
  
