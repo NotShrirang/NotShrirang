@@ -26,8 +26,16 @@ I am Third Year undergrad student of Computer Engineering.
 <h2 align="center">On GitHub</h2>
 <table align="center">
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=NotShrirang&show_icons=true&locale=en&theme=gotham" alt="NotShrirang" /></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotShrirang&langs_count=8&https://github.com/NotShrirang/github-readme-stats&locale=en&layout=compact&theme=gotham"/></td>
+    <td>
+     <a href="https://github.com/NotShrirang">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotShrirang&show_icons=true&locale=en&theme=gotham" alt="NotShrirang" />
+     </a>
+    </td>
+    <td>
+     <a href="https://github.com/NotShrirang">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotShrirang&langs_count=8&https://github.com/NotShrirang/github-readme-stats&locale=en&layout=compact&theme=gotham"/>
+     </a> 
+     </td>
   </tr>
  </table>
 
