@@ -63,11 +63,11 @@ I am Third Year undergrad student of Computer Engineering.
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/kotlin-white?style=for-the-badge&logo=kotlin&logoColor=purple)](https://kotlinlang.org/)
 [![HTML5](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![Canva](https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&logoColor=blue)]()
-[![Figma](https://img.shields.io/badge/figma-success?style=for-the-badge&logo=figma&logoColor=white)]()
-[![VisualStudioCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=VisualStudioCode&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=black)]()
-[![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=blue)]()
-[![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=black)]()
+[![Canva](https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&logoColor=blue)](https://www.canva.com)
+[![Figma](https://img.shields.io/badge/figma-success?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![VisualStudioCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=black)](https://github.com/)
+[![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=blue)](https://www.google.com/search?q=windows)
+[![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 </div>
