@@ -4,7 +4,7 @@ I am Third Year undergrad student of Computer Engineering.
 
 <p>
 
-- Interests: Tensorflow, Flutter, ML, NLP, Database Management, Django, Computer Vision.
+- Interests: Tensorflow, ML, NLP, Computer Vision, Database Management, Django, Flutter.
 - Currently Learning : Deep Learning, Machine Learning, OpenCV.
 
 <div align="center">
