@@ -4,7 +4,7 @@ I am Third Year undergrad student of Computer Engineering.
 
 <p>
 
-- Interests: Tensorflow, ML, NLP, Computer Vision, Database Management, Django, Flutter.
+- Interests: Deep Learning, Machine Learning, Computer Vision, Database Management, Django, Flutter.
 - Currently Learning : Deep Learning, Machine Learning, OpenCV.
 
 <div align="center">
@@ -39,7 +39,7 @@ I am Third Year undergrad student of Computer Engineering.
   </tr>
  </table> -->
 
-<div align="center">
+<!-- <div align="center">
  
 ## Techstack :
 [![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://python.org)
@@ -70,4 +70,4 @@ I am Third Year undergrad student of Computer Engineering.
 [![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=blue)](https://www.google.com/search?q=windows)
 [![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-</div>
+</div> -->
