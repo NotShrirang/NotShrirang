@@ -23,7 +23,7 @@ I am Third Year undergrad student of Computer Engineering.
 
 </div>
 
-<!-- <h2 align="center">On GitHub</h2>
+<h2 align="center">On GitHub</h2>
 <table align="center">
   <tr>
     <td>
@@ -37,7 +37,7 @@ I am Third Year undergrad student of Computer Engineering.
      </a> 
      </td>
   </tr>
- </table> -->
+ </table>
 
 <!-- <div align="center">
  
