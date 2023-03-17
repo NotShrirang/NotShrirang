@@ -1,4 +1,4 @@
-<h2>Hi! I am Shrirang Mahajan.</h2>
+<h2>Hello there! 🤖</h2>
 <img src="https://komarev.com/ghpvc/?username=NotShrirang&label=Views&color=blue&style=plastic&style=for-the-badge" alt="NotShrirang" /> </p
 I am Third Year undergrad student of Computer Engineering.
 
