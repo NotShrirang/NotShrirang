@@ -17,7 +17,6 @@ I am Third Year undergrad student of Computer Engineering.
 [![PyPI](https://img.shields.io/badge/pypi-blue?style=for-the-badge&logo=pypi&logoColor=yellow)](https://pypi.org/user/NotShrirang/)
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/shrirangmahajan)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrirangmahajan123@gmail.com)
-[![spotify](https://img.shields.io/badge/spotify-%1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31bunjbzi2ug7fkcfrfxa3pvi3ka)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sm_9502)
 
 
