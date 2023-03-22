@@ -4,7 +4,7 @@ I am Third Year undergrad student of Computer Engineering.
 
 <p>
 
-- 🌱 Currently learning Deep Learning, Machine Learning, Computer Vision, Django, Flutter.
+- 🌱 Currently learning Deep Learning, Machine Learning, Computer Vision, Django, Flutter.<br>
 - 👯 Open for collaboratations on Deep Learning or Backend Development projects!
 
 <div align="center">
@@ -38,7 +38,7 @@ I am Third Year undergrad student of Computer Engineering.
   </tr>
  </table>
 
-<!-- <div align="center">
+<div align="center">
  
 ## Techstack :
 [![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://python.org)
@@ -50,23 +50,15 @@ I am Third Year undergrad student of Computer Engineering.
 [![OpenCV](https://img.shields.io/badge/opencv-white?style=for-the-badge&logo=opencv&logoColor=black)](https://opencv.org/)
 [![Tensorflow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=yellow)](https://www.tensorflow.org/)
 [![Django](https://img.shields.io/badge/django-success?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
 [![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/dart-violet?style=for-the-badge&logo=dart&logoColor=blue)](https://dart.dev/)
+[![Dart](https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=%23150458)](https://dart.dev/)
 [![Firebase](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase&logoColor=yellow)](https://firebase.google.com/)
-[![MongoDB](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=brightgreen)](https://www.mongodb.com/)
 [![sqlite](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=purple)](https://www.sqlite.org/)
-[![Postgres](https://img.shields.io/badge/postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=orange)](https://www.mysql.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)]()
 [![C](https://img.shields.io/badge/c-purple?style=for-the-badge&logo=c&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Kotlin](https://img.shields.io/badge/kotlin-white?style=for-the-badge&logo=kotlin&logoColor=purple)](https://kotlinlang.org/)
 [![HTML5](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Canva](https://img.shields.io/badge/canva-white?style=for-the-badge&logo=canva&logoColor=blue)](https://www.canva.com)
-[![Figma](https://img.shields.io/badge/figma-success?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![VisualStudioCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=black)](https://github.com/)
-[![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows&logoColor=blue)](https://www.google.com/search?q=windows)
-[![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-</div> -->
+</div>
