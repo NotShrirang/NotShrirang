@@ -4,7 +4,7 @@ I am Third Year undergrad student of Computer Engineering.
 
 <p>
 
-- 🌱 Currently learning Deep Learning, Machine Learning, Computer Vision, Django, Flutter.<br>
+- 🌱 Currently learning Deep Learning, Computer Vision, Django, Flutter.<br>
 - 👯 Open for collaboratations on Deep Learning or Backend Development projects!
 
 <div align="center">
