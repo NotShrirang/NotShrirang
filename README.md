@@ -42,13 +42,12 @@ I am Third Year undergrad student of Computer Engineering.
  
 ## Techstack :
 [![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://python.org)
-[![Jupyter](https://img.shields.io/badge/jupyter-blue?style=for-the-badge&logo=jupyter&logoColor=orange)](https://jupyter.org/)
+[![Tensorflow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=yellow)](https://www.tensorflow.org/)
 [![ScikitLearn](https://img.shields.io/badge/scikit--learn-white.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-%23150458.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![NLTK](https://img.shields.io/badge/nltk-white.svg?style=for-the-badge&logo=python&logoColor=blue)](https://www.nltk.org/)
 [![OpenCV](https://img.shields.io/badge/opencv-white?style=for-the-badge&logo=opencv&logoColor=black)](https://opencv.org/)
-[![Tensorflow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=yellow)](https://www.tensorflow.org/)
 [![Django](https://img.shields.io/badge/django-success?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
 [![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
