@@ -56,6 +56,5 @@ I am Third Year undergrad student of Computer Engineering.
 [![sqlite](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=purple)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=orange)](https://www.mysql.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)]()
-[![HTML5](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 
 </div>
