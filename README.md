@@ -1,6 +1,5 @@
 <h2>Hello there! 🤖</h2>
 
-
 <p>
 
 - 🌱 Currently learning Deep Learning, Django Rest Framework, Flutter.<br>
