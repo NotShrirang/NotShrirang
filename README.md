@@ -3,7 +3,7 @@
 <p>
 
 - 🌱 Currently learning Deep Learning, Django Rest Framework, Flutter.<br>
-- 👯 Open for collaboratations on Deep Learning or Backend Development projects!
+- 👯 Open for collaboratations on Machine Learning or Backend Development projects!
 
 <div align="center">
  
