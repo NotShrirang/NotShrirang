@@ -20,8 +20,8 @@
 
 </div>
 
-<h2 align="center">On GitHub</h2>
-<table align="center">
+<!-- <h2 align="center">On GitHub</h2> -->
+<!-- <table align="center">
   <tr>
     <td>
      <a href="https://github.com/NotShrirang">
@@ -35,7 +35,7 @@
      </td>
   </tr>
  </table>
-
+ -->
 <div align="center">
  
 ## Techstack :
