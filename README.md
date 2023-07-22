@@ -50,10 +50,10 @@
 [![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
 [![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=%23150458)](https://dart.dev/)
+[![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase&logoColor=yellow)](https://firebase.google.com/)
 [![sqlite](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=purple)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=orange)](https://www.mysql.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)]()
-[![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)]()
 
 </div>
