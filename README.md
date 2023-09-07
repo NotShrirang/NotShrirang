@@ -3,7 +3,7 @@
 <p>
 
 - 🌱 Currently learning Deep Learning and Generative AI.<br>
-- 👯 Open for collaboratations on Deep Learning Learning, Backend Development or Flutter projects!
+- 👯 Open for collaborations on Deep Learning Learning, Backend Development or Flutter projects!
 
 <div align="center">
  
