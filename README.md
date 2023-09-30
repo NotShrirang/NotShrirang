@@ -5,6 +5,8 @@
 - 🌱 Currently learning Deep Learning and Generative AI.<br>
 - 👯 Open for collaborations on Deep Learning Learning, Backend Development or Flutter projects!
 
+### Reach me at: <a href="mailto:shrirangmahajan123@gmail.com">shrirangmahajan123@gmail.com</a>
+
 <div align="center">
  
 ## Socials
@@ -14,7 +16,6 @@
 [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17353907/shrirang-mahajan)
 [![PyPI](https://img.shields.io/badge/pypi-blue?style=for-the-badge&logo=pypi&logoColor=yellow)](https://pypi.org/user/NotShrirang/)
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/shrirangmahajan)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrirangmahajan123@gmail.com)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sm_9502)
 
 
