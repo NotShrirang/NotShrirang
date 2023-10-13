@@ -2,8 +2,8 @@
 
 <p>
 
-- 🌱 Currently learning Deep Learning and Generative AI.<br>
-- 👯 Open for collaborations on Deep Learning Learning, Backend Development or Flutter projects!
+- 🌱 Currently learning Deep Learning, Generative AI and Large Language Models.<br>
+- 👯 Open for collaborations on Deep Learning, Web Development or Flutter projects!
 
 ### Reach me at: <a href="mailto:shrirangmahajan123@gmail.com">shrirangmahajan123@gmail.com</a>
 
