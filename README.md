@@ -31,7 +31,7 @@
     </td>
     <td>
      <a href="https://github.com/NotShrirang">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotShrirang&langs_count=8&https://github.com/NotShrirang/github-readme-stats&locale=en&layout=compact&theme=gotham&exclude_repo=MP-Assignments"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotShrirang&langs_count=10&https://github.com/NotShrirang/github-readme-stats&locale=en&layout=compact&theme=gotham&exclude_repo=MP-Assignments"/>
      </a> 
      </td>
   </tr>
