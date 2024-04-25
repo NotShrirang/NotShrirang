@@ -3,7 +3,7 @@
 <p>
 
 - 🌱 Currently learning Deep Learning, Generative AI and Large Language Models.<br>
-- 👯 Open for collaborations on Deep Learning, Web Development or Flutter projects!
+- 👯 Open for collaborations on Deep Learning, Backend Development projects!
 
 ### Reach me at: <a href="mailto:shrirangmahajan123@gmail.com">shrirangmahajan123@gmail.com</a>
 
@@ -41,10 +41,10 @@
 <div align="center">
  
 ## Techstack :
+[![PyTorch](https://img.shields.io/badge/pytorch-white?style=for-the-badge&logo=pytorch&logoColor=orange)](https://pytorch.org/)
 [![Tensorflow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![ScikitLearn](https://img.shields.io/badge/scikit--learn-white.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)](https://scikit-learn.org/)
-[![PyTorch](https://img.shields.io/badge/pytorch-orange?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-%23150458.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Django](https://img.shields.io/badge/django-success?style=for-the-badge&logo=django&logoColor=black)](https://www.djangoproject.com/)
