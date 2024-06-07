@@ -12,7 +12,7 @@
 ## Socials
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrirang-mahajan/)
-[![HuggingFace](https://img.shields.io/badge/huggingface-FFCA1B?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/NotShrirang)
+[![HuggingFace](https://img.shields.io/badge/huggingface-FFCA1B?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/NotShrirang)
 [![kaggle](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/notshrirang)
 [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17353907/shrirang-mahajan)
 [![PyPI](https://img.shields.io/badge/pypi-blue?style=for-the-badge&logo=pypi&logoColor=yellow)](https://pypi.org/user/NotShrirang/)
