@@ -50,7 +50,7 @@
 
 > 📦 600.4 kB Used in GitHub's Storage 
  > 
-> 🏆 512 Contributions in the Year 2024
+> 🏆 510 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -114,7 +114,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NotShrirang/NotShrirang/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2024 02:05:32 UTC
+ Last Updated on 20/09/2024 02:18:03 UTC
 <!--END_SECTION:waka-->
 
 ## Techstack :
