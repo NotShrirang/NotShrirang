@@ -41,9 +41,11 @@
 
 <div align="center">
 
+```
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
- 
+```
 ## Techstack :
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
