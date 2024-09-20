@@ -61,8 +61,6 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -77,45 +75,6 @@
  > 
 > 🔑 59 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                726 commits         ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-🌆 Daytime                656 commits         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-🌃 Evening                1122 commits        ███████████░░░░░░░░░░░░░░   43.57 % 
-🌙 Night                  71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Tuesday                  196 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Wednesday                513 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Thursday                 294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Friday                   471 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Saturday                 358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Sunday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -133,7 +92,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NotShrirang/NotShrirang/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2024 04:47:20 UTC
+ Last Updated on 20/09/2024 18:55:22 UTC
 <!--END_SECTION:waka-->
 
 </div>
