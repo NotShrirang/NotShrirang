@@ -40,6 +40,9 @@
  </table>
 
 <div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 ## Techstack :
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
