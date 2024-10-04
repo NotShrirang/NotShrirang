@@ -19,6 +19,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sm_9502)
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/shrirangmahajan)
 [![medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@shrirangmahajan123)
+[![Resume](https://img.shields.io/badge/Resume-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://drive.google.com/file/d/1Y7EUEjyumHEovWwSYLUJxiuIzGHj7TuQ/view?usp=sharing)
 
 
 </div>
