@@ -18,7 +18,7 @@
 [![kaggle](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/notshrirang)
 [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17353907/shrirang-mahajan)
 [![PyPI](https://img.shields.io/badge/pypi-blue?style=for-the-badge&logo=pypi&logoColor=yellow)](https://pypi.org/user/NotShrirang/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sm_9502)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/notshrirang)
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/shrirangmahajan)
 [![medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@shrirangmahajan123)
 
