@@ -8,9 +8,6 @@
 
 </div>
 
-## Professional Summary
-Dedicated Machine Learning Engineer specializing in deep learning and artificial intelligence, with extensive experience in full-stack development. Currently focused on advancing the fields of Generative AI and Large Language Models while building robust, scalable solutions.
-
 ## 🎯 Professional Summary
 Dedicated Machine Learning Engineer specializing in Generative AI and Large Language Models. Currently focused on advancing expertise in artificial intelligence and neural network architectures. View my complete portfolio at [shrirangmahajan.in](https://www.shrirangmahajan.in/).
 
