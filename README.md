@@ -9,19 +9,18 @@
 </div>
 
 ## 🎯 Professional Summary
-Dedicated Machine Learning Engineer specializing in Generative AI and Large Language Models. Currently focused on advancing expertise in artificial intelligence and neural network architectures. View my complete portfolio at [shrirangmahajan.in](https://www.shrirangmahajan.in/).
+Dedicated Machine Learning Engineer specializing in Generative AI and Large Language Models. Currently focused on advancing expertise in artificial intelligence and neural network architectures while continuously learning emerging ML and LLM technologies. View my complete portfolio at [shrirangmahajan.in](https://www.shrirangmahajan.in/).
 
 ## 🛠️ Core Technical Proficiencies
 
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-white.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-white.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Backend Development
-![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -34,6 +33,14 @@ Dedicated Machine Learning Engineer specializing in Generative AI and Large Lang
 ### Development Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-white?style=for-the-badge&logo=databricks&logoColor=FF0000)
+
+### Programming / Scripting Languages:
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-FFCA1B?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/c%2B%2B-purple?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sqlite&logoColor=black)
+
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrirang-mahajan/)
@@ -56,4 +63,4 @@ Currently seeking collaboration opportunities in:
 - Deep Learning / Machine Learning Collaborations
 
 ---
-*Last Updated: January 2025*
+*Last Updated: February 2025*
