@@ -32,24 +32,26 @@ Dedicated Machine Learning Engineer specializing in Generative AI and Large Lang
 
 ### Development Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=black)
+![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=#d63900)
+![Postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-white?style=for-the-badge&logo=databricks&logoColor=FF0000)
 
 ### Programming / Scripting Languages:
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-FFCA1B?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/c%2B%2B-purple?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sqlite&logoColor=black)
+![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ## 🤝 Let's Connect
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/notshrirang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrirang-mahajan/)
 [![HuggingFace](https://img.shields.io/badge/huggingface-FFCA1B?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/NotShrirang)
 [![Kaggle](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/notshrirang)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17353907/shrirang-mahajan)
-[![PyPI](https://img.shields.io/badge/pypi-blue?style=for-the-badge&logo=pypi&logoColor=yellow)](https://pypi.org/user/NotShrirang/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@shrirangmahajan123)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/notshrirang)
+[![PyPI](https://img.shields.io/badge/pypi-blue?style=for-the-badge&logo=pypi&logoColor=yellow)](https://pypi.org/user/NotShrirang/)
 
 ## 📬 Contact
 
@@ -62,5 +64,10 @@ Currently seeking collaboration opportunities in:
 - AI/ML Research Initiatives
 - Deep Learning / Machine Learning Collaborations
 
+
+## 🎭 Past Experience
+
+Used to be an actor, even played the lead in [Elizabeth Ekadashi](https://www.google.com/search?q=elizabeth+ekadashi) and some other films… but hey, now I’m all about AI.
+
 ---
-*Last Updated: February 2025*
+*Last Updated: March 2025*
