@@ -78,3 +78,6 @@ I'm currently exploring collaboration opportunities in **AI/ML research** and **
   
   If you find my work interesting, consider starring my repositories and following me!
 </div>
+
+---
+*Last Updated: April 2025*
