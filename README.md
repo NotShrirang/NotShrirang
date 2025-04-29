@@ -4,7 +4,7 @@
 
 > Machine Learning Engineer | Full Stack Developer | AI Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=About.me&logoColor=white)](https://www.shrirangmahajan.in)
+### Portfolio: www.shrirangmahajan.in
 
 </div>
 
