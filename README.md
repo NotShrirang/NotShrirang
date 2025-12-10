@@ -36,10 +36,9 @@ Machine Learning Engineer building **production-grade, full-stack AI systems** f
 ### 🖥️ Backend & MLOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Triton](https://img.shields.io/badge/NVIDIA_Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NVIDIA Triton](https://img.shields.io/badge/NVIDIA_Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge)
 
 ### 🌐 Frontend
@@ -56,33 +55,12 @@ Machine Learning Engineer building **production-grade, full-stack AI systems** f
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotShrirang&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotShrirang&layout=compact&theme=radical" />
-</div>
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Attention: Explanation is All You Need](https://www.shrirangmahajan.in/blogs/attention-explanation-is-all-you-need)
-- [Llama 2 Explained](https://www.shrirangmahajan.in/blogs/llama-2-explained)
-- [Deep Learning Optimizers: A Comprehensive Guide](https://medium.com/@shrirangmahajan123/optimizers-a-simple-beginners-guide-8ab6942880dd)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🌐 Connect With Me
 
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/notshrirang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrirang-mahajan/)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/NotShrirang)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/notshrirang)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@shrirangmahajan123)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17353907/shrirang-mahajan)
-[![PyPI](https://img.shields.io/badge/PyPI-blue?style=for-the-badge&logo=pypi&logoColor=yellow)](https://pypi.org/user/NotShrirang/)
 
 ---
 
@@ -93,4 +71,4 @@ Machine Learning Engineer building **production-grade, full-stack AI systems** f
 
 ---
 
-*Last Updated: November 2025*
+*Last Updated: December 2025*
